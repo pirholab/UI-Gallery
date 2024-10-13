@@ -345,7 +345,7 @@ public class SplashActivity extends AppCompatActivity {
 
 <!-- Contributing -->
 
-## :wave: Athor
+## :wave: Author 
 
 <a href="https://github.com/farhan-s">
   <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
